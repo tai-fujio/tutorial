@@ -1,3 +1,5 @@
+I cloned kumackey/Rails-tutorial-upgrade as a reference.
+
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
 これは、次の教材で作られたサンプルアプリケーションです。   
